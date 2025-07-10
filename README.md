@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="https://github.com/Wass1m">Wassim</a></h2>
-<p>I'm a passionate front-end developer from France, specializing in creating engaging and user-friendly web and mobile interfaces with React, React Native, and .NET technologies. My main focus is on delivering seamless user experiences, modern UI design, and responsive layouts. I love working with the latest front-end frameworks, experimenting with new design trends, and transforming ideas into polished digital products.</p>
+<p>I'm a passionate web developer, specializing in creating engaging and user-friendly web and mobile interfaces with React, React Native, and .NET technologies. My main focus is on delivering seamless user experiences, modern UI design, and responsive layouts. I love working with the latest front-end frameworks, experimenting with new design trends, and transforming ideas into polished digital products.</p>
 
 <h3>Things I code with</h3>
 <p>
